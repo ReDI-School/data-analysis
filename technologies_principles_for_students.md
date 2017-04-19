@@ -1,4 +1,4 @@
-##What technologies/principles should students know when they finish?
+## What technologies/principles should students know when they finish?
 
 * Jupyter Notebooks
 * SQL
